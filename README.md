@@ -14,11 +14,10 @@ Results are saved at "results" directory.
 ## Cite Us
 
 ```
-@inproceedings{varambally2024discovering,
-  author       = {Varambally, Sumanth and Ma, Yi-An and Yu, Rose},
-  title        = {Discovering Mixtures of Structural Causal Models from Time Series Data},
-  booktitle    = {International Conference on Machine Learning, {ICML} 2024},
-  series       = {Proceedings of Machine Learning Research},
-  year         = {2024}
+@article{niu2024multi,
+  title={Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling},
+  author={Niu, Ruijia and Wu, Dongxia and Kim, Kai and Ma, Yi-An and Watson-Parris, Duncan and Yu, Rose},
+  journal={arXiv preprint arXiv:2402.18846},
+  year={2024}
 }
 ```
