@@ -14,10 +14,11 @@ Results are saved at "results" directory.
 ## Cite Us
 
 ```
-@article{niu2024multi,
-  title={Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling},
-  author={Niu, Ruijia and Wu, Dongxia and Kim, Kai and Ma, Yi-An and Watson-Parris, Duncan and Yu, Rose},
-  journal={arXiv preprint arXiv:2402.18846},
-  year={2024}
+@inproceedings{niu2024multi,
+  author       = {Niu, Ruijia and Wu, Dongxia and Kim, Kai and Ma, Yi-An and Watson-Parris, Duncan and Yu, Rose},
+  title        = {Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling},
+  booktitle    = {International Conference on Machine Learning, {ICML} 2024},
+  series       = {Proceedings of Machine Learning Research},
+  year         = {2024}
 }
 ```
