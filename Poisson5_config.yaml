@@ -1,0 +1,37 @@
+base_dir: data/model
+log_level: INFO
+wandb_log: False
+
+data:
+  # random_seed: 1
+  standard_transform: True
+  # not using batch, set a smaller value if use
+  batch_size: 2048
+
+  # data_path: data/full_dataset/poisson
+  ablation: False
+  # save_dir: result/poisson
+  # levels: 5
+
+model:
+  hidden_dim: 32
+  z_dim: 32
+  context_percentage_low: 0.2
+  context_percentage_high: 0.25
+  hidden_layers: 2
+  l1_decay: 0
+  # device: cuda:0
+
+train:
+  base_lr: 1.0e-3
+  curr_epoch: 0
+  epochs: 50000
+  epsilon: 1.0e-3
+  lr_decay_ratio: 0.85
+  max_grad_norm: 1
+  curr_patience: 0
+  patience: 10000
+  clip_grad: True
+  steps: [10000]
+  fidelity_weight: 2 # highest fidelity weight
+  lower_fidelity_weight: 0.25
