@@ -8,7 +8,7 @@ Multi-fidelity surrogate modeling aims to learn an accurate surrogate at the hig
 
 <div style="text-align: center;">
   <img src="repo_figures/MFRNP_Struct.png" alt="Overview" style="width: 80%;">
-  <p><em>MFRNP Model Structure</em></p>
+  <p style="text-align: center;"><em>MFRNP Model Structure</em></p>
 </div>
 
 
