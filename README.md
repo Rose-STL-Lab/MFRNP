@@ -19,7 +19,11 @@ conda env create -f environment.yml
 ```
 
 ## Download Data
-link for dataset
+[Download Data Here (data.zip)](https://drive.google.com/file/d/1HKE3tf8SUDLrK9ZnvCIKKdo4TIoRtBZY/view?usp=sharing)
+Unzip the file at the root directory.
+```
+unzip data.zip
+```
 
 ## Running Experiments
 Run Full and OOD tasks (Fluid, Heat2,3,5 and Poisson2,3,5):
