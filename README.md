@@ -18,10 +18,8 @@ Create conda environment and install the packages:
 conda env create -f environment.yml
 ```
 
-## Download Data
-[Download Data Here (data.zip)](https://drive.google.com/file/d/1HKE3tf8SUDLrK9ZnvCIKKdo4TIoRtBZY/view?usp=sharing)
-
-Unzip the file at the root directory.
+## [Download Data](https://drive.google.com/file/d/1HKE3tf8SUDLrK9ZnvCIKKdo4TIoRtBZY/view?usp=sharing)
+Unzip the file (data.zip) at the root directory.
 ```
 unzip data.zip
 ```
