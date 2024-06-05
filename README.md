@@ -2,7 +2,10 @@
 Code for paper "Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling", presented at ICML2024.
 
 ## Environment Setup
-yaml (Will be updated soon)
+Create conda environment and install the packages:
+```
+conda env create -f environment.yml
+```
 
 ## Download Data
 link for dataset
