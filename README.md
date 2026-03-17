@@ -19,7 +19,7 @@ conda env create -f environment.yml
 ```
 
 ## [Download Data](https://drive.google.com/file/d/1HKE3tf8SUDLrK9ZnvCIKKdo4TIoRtBZY/view?usp=sharing)
-Unzip the file (data.zip) at the root directory.
+Unzip the file (data.zip) at the root directory. Link: https://drive.google.com/file/d/1HKE3tf8SUDLrK9ZnvCIKKdo4TIoRtBZY/view?usp=sharing
 ```
 unzip data.zip
 ```
