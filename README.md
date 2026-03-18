@@ -44,6 +44,10 @@ python train.py --data_path <path_to_dataset> --save_dir <name_of_directory_to_b
 python train.py --data_path "data/full_dataset/poisson" --save_dir poisson --config pde_config.yaml --levels 2 --device cuda
 ```
 
+### Climate Modeling Tasks Dataset
+
+[Download Data]( https://drive.google.com/drive/folders/1nlEVdWTKt9R67sPsVLR3BkDtqjI4bCGl?usp=sharing)
+
 ## Cite Us
 
 ```
